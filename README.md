@@ -1,4 +1,4 @@
-# O-Tile structure construction when m is a multiple of 4
+# O-tile structure construction when m is a multiple of 4
 
 This program will try to help you construct a set of O-tile structures with $(\frac{m^2}{4}+m)$-tiles in $\mathbb{C}^m \otimes \mathbb{C}^m$ for $4\leq m \leq 32$ and $m\equiv 0 \pmod 4$.
 
