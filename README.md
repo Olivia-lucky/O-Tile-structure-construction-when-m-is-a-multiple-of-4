@@ -17,8 +17,7 @@ And $l_{i}, a_{i}, x, y, z$ and $w$ correspond to $len\[i\], arr\[i\], combo\[i\
 
 ## To compile:
 * Install gcc (g++) that supports -std=c++11 (only Dev-C++)  
-Tools---Compiler Options---General---Add the following commands when calling the compiler: -std=c++11  
-Tools---Compiler Options---General---Add the following commands when calling the linker: -static-libgcc  
+Tools---Compiler Options---General---Add the following commands when calling the compiler: -std=c++11    
 
 
 ## Others:
